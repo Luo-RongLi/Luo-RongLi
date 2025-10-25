@@ -2,7 +2,7 @@
 
 <h1 align="center" style="font-weight:600; letter-spacing:-0.5px;">The name is 罗荣立(rainreeLuo)</h1>
 
-<div>
+<div align="center">
 📫  rongliluo68@gmail.com
 </div>
 
